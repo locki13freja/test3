@@ -1,0 +1,10 @@
+table{
+    width: 20%;
+    background-color: white;
+    color: black;
+}
+th{
+    background-color: black;
+    color: white;
+    padding: auto;
+}
